@@ -3,10 +3,10 @@
 	{
 		"name": "luckpool",
 	"url": "stratum+tcp://ap.luckpool.net:3956",
-		"timeout":150
+		"timeout":100
 	}
 	],
-	"user": "RQ44XLGzJxxz2TiWUdPf5nF5RkFnMWusSv.D-01",
+	"user": "RQ44XLGzJxxz2TiWUdPf5nF5RkFnMWusSv.RIG-01",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
